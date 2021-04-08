@@ -1,7 +1,7 @@
 # UX-user-flow-clock-app
 UX user flow for clock application
 
-To create user flow i used the prototyping tool [Overflow](https://overflow.io) 
+To create user flow i used the prototyping tool [Overflow](https://overflow.io) and [Figma](https://www.figma.com/file/P7KwTjoUuF9N5oAGgLzGlM/clock)
 
 ![Screenshot](image3.png)
 Map of user flow for Clock application
